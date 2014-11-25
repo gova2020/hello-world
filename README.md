@@ -2,4 +2,4 @@ hello-world
 ===========
 
 first github repository
-closed readme
+what is going on
